@@ -1,15 +1,6 @@
-# find all files with the passed string and list their names
-
-# -S - search keyword
-# -R - recurse
-# -F - file to search in
-
-[bool] $recurse = $false
-$patterns = [System.Collections.ArrayList]::new()
 $files = [System.Collections.ArrayList]::new()
+$keywords = [System.Collections.ArrayList]::new()
 
-foreach ($arg in $args) {
-    
-}
+Get-ChildItem *.fasta -Recurse | ForEach-Object {Get-Content $_ -Filter -Raw } | Select-String "Nakhon" 
 
-Get-ChildItem $args[0] -Recurse | ForEach-Object { Get-Content $_ -Raw }
+Get-ChildItem *.fasta -Recurse | ForEach-Object {if ((Get-Content $_ -Raw).ToString().Contains("SLCMV")) {Write-Host $_.FullName}}
