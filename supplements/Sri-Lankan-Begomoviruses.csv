@@ -1,0 +1,30 @@
+Species,Isolate,Identifier,Host,Accession No (DNA-A),Length (bp),Abbreviation,Country
+Ageratum yellow vein Sri Lanka virus,,AYVSLV(LK:99),Ageratum conyzoides,AF314144,2748,AYVSLV,Sri Lanka
+Chilli leaf curl virus,CL-14,ChiLCV(LK:Noch:CL-14:09),Capsicum annuum L.,NC_055131,2754,ChiLCV,Sri Lanka/Nochchiyagama
+Chilli leaf curl virus,CL-15,ChiLCV(LK:Noch:CL-15:09),Capsicum annuum L.,JN555600,2754,ChiLCV,Sri Lanka/Nochchiyagama
+Horsegram yellow mosaic virus,LK:09,HgYMV(LK:09),Phaseolus vulgaris,GU323321,2735,HgYMV,Sri Lanka
+Okra enation leaf curl virus,Jaffna,OELuV(LK:Jaf:15),Abelmoschus esculentus,KX698088,2738,OELCuV,Sri Lanka/Jaffna
+Okra enation leaf curl virus,Puttalam,OELuV(LK:Put:15),Abelmoschus esculentus,KX698091,2738,OELCuV,Sri Lanka/Puttalam
+Okra enation leaf curl virus,Matara,OELuV(LK:Mat:15),Abelmoschus esculentus,KX698092,2738,OELCuV,Sri Lanka/Matara
+Okra enation leaf curl virus,DAJfn01,OELCuV(LK:DAJfn01:18),Abelmoschus esculentus,MN384976,2738,OELCuV,Sri Lanka/Jaffna
+Okra enation leaf curl virus,Vavuniya,OELuV(LK:Vav:15),Abelmoschus esculentus,KX698090,2738,OELCuV,Sri Lanka/Vavuniya
+Okra enation leaf curl virus,Va02,OELCuV(LK:Va02:15),Abelmoschus esculentus,MH455208,2738,OELCuV,Sri Lanka/Vavuniya
+Okra enation leaf curl virus,DAVav02,OELCuV(LK:DAVav02:18),Abelmoschus esculentus,MN389529,2741,OELCuV,Sri Lanka/Vavuniya
+Okra enation leaf curl virus,Batticaloa,OELCuV(LK:Bat:15),Abelmoschus esculentus,KX698093,2738,OELCuV,Sri Lanka/Batticola
+Okra enation leaf curl virus,Trincomalee,OELuV(LK:Tri:15),Abelmoschus esculentus,NC_031754,2738,OELCuV,Sri Lanka/Trincomalee
+Okra enation leaf curl virus,Tr02,OELCuV(LK:Tr02:15),Abelmoschus esculentus,MH455207,2762,OELCuV,Sri Lanka/Trincomalee
+Bhendi yellow vein mosaic virus,Ma02,BYVMV(LK:Ma02:15),Abelmoschus esculentus,MH455212,2741,BYVMV,Sri Lanka/Matara
+Bhendi yellow vein mosaic virus,Mahailuppallama,BYVMV(LK:MI:Part:XX),Abelmoschus esculentus,MT572476,656,BYVMV,Sri Lanka/Mahailuppallama
+Bhendi yellow vein mosaic virus,Ka02,BYVMV(LK:Ka02:15),Abelmoschus esculentus,MH455210,2743,BYVMV,Sri Lanka/Kandy
+Bhendi yellow vein mosaic virus,Gannoruwa,BYVMV(LK:Gan:Part:XX),Abelmoschus esculentus,MT572475,656,BYVMV,Sri Lanka/Gannoruwa
+Bhendi yellow vein mosaic virus,Angunakolapalassa,BYVMV(LK:Ang:Part:XX),Abelmoschus esculentus,MT572477,657,BYVMV,Sri Lanka/Angunakolapalassa
+Bhendi yellow vein mosaic virus,Pu02,BYVMV(LK:Pu02:15),Abelmoschus esculentus,MH455211,2735,BYVMV,Sri Lanka/Puttalam
+Bhendi yellow vein mosaic virus,Kandy,BYVMV(LK:Kan:15),Abelmoschus esculentus,KX698089,2786,BYVMV,Sri Lanka/Kandy
+Bhendi yellow vein mosaic virus,Ja02,BYVMV(LK:Ja02:15),Abelmoschus esculentus,MH455209,2749,BYVMV,Sri Lanka/Jaffna
+Sri Lankan cassava mosaic virus,SLCMV-Col,SLCMV/LK(LK:CMB:SLCMV-Col:98),Nicotiana benthamiana,AJ314737,2755,SLCMV,Sri Lanka/Columbo
+Sri Lankan cassava mosaic virus,Kin2021,SLCMV(LK:Tri:Kin2021:21),Manihot esculenta,OK377342,2746,SLCMV,Sri Lanka/Trincomalee/Kinniya
+Sri Lankan cassava mosaic virus,Kuc2021,SLCMV(LK:Tri:Kuc2021:21),Manihot esculenta,OK377343,2746,SLCMV,Sri Lanka/Trincomalee/Kuchchaveli 
+Sri Lankan cassava mosaic virus,Mut2021,SLCMV(LK:Tri:Mut2021:21),Manihot esculenta,OK424595,2746,SLCMV,Sri Lanka/Trincomalee/Muthur
+Sri Lankan cassava mosaic virus,Nil2021,SLCMV(LK:Tri:Nil2021:21),Manihot esculenta,OK377341,2746,SLCMV,Sri Lanka/Trincomalee/Nilaveli
+Sri Lankan cassava mosaic virus,Pd2021,SLCMV(LK:Tri:Pd2021:21),Manihot esculenta,OK362288,2746,SLCMV,Sri Lanka/Trincomalee/Padavisripura
+Tomato leaf curl Sri Lanka virus,,ToLCLKV(LK:Bad:Band:97),Solanum lycopersicum,NC_004647,2756,ToLCLKV,Sri Lanka/Badulla/Bandarawela

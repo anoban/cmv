@@ -1,0 +1,19 @@
+Species,Isolate,Identifier,Host,Accession No (DNA-A),Length (bp),Abbreviation,Country
+African cassava mosaic Burkina Faso virus,BF:Oua:BF127:08,ACMBFV(BF:Oua:BF127:08),Manihot esculenta,HE616777,2770,ACMBFV,Burkina Faso/Ouagadougou
+African cassava mosaic virus,West Kenyan 844,ACMV(KE:West Kenyan 844:98),Manihot esculenta,J02057,2779,ACMV,Kenya/West Kenya
+Cassava mosaic Madagascar virus,MG:Tol:06,CMMGV(MG:Tol:06),Manihot esculenta,HE617299,2769,CMMGV,Madagascar/Toliary
+East African cassava mosaic Cameroon virus,WACMV/CM,EACMCMV(CMRN:WACMV/CM:98),Manihot esculenta,AF112354,2802,EACMCMV,Cameroon
+East African cassava mosaic Kenya virus,EACMKV-[K298],EACMKV(KE:EACMKV-[K298]:02),Manihot esculenta,AJ717572,2797,EACMKV,Kenya/Machakos/Mitaboni/Ngiini
+East African cassava mosaic Malawi virus,MK,EACMMV(MW:MK:96),Manihot esculenta,AJ006460,2804,EACMMV,Kenya/Malawi
+East African cassava mosaic virus,EACMV-KE2[K48],EACMV/KE2(KE:EACMV-KE2[K48]:01),Manihot esculenta,AJ717542,2801,EACMV/KE,"Kenya/Kwale, Boa"
+East African cassava mosaic virus,Malawi/2007/8N,EACMV/MW(MW:Malawi/2007/8N:07),Manihot esculenta,JX473582,2798,EACMV/MW,Malawi
+East African cassava mosaic virus,TZ1,EACMV/TZ(TZ:TZ1:01),Manihot esculenta,AY795983,2798,EACMV/TZ,Tanzania
+East African cassava mosaic virus,EACMV/Ug2//Svr,EACMV/UG(UG:EACMV/Ug2//Svr:97),Manihot esculenta,AF126806,2799,EACMV/UG,Uganda
+East African cassava mosaic Zanzibar virus,,EACMZV(TZ:ZNZ:Uguja:98),Manihot esculenta,AF422174,2785,EACMZV,"Tanzania/Zanzibar, Uguja Island"
+Indian cassava mosaic virus,,ICMV/IN(IN:Triv:86),Manihot esculenta,Z24758,2815,ICMV/IN,India/Trivandrum/India
+Indian cassava mosaic virus,Jalgaon,ICMV(IN:MH:Jalgaon:09),Jatropha curcas,JF496657,2719,ICMV,India/Maharashtra
+Indian cassava mosaic virus,Dharwad,ICMV/Jat(IN:Dharwad:08),Jatropha curcas,GQ924760,2735,ICMV/Jat,India
+Indian cassava mosaic virus,Adivaram 2,ICMV/Ker(IN:KL:Adivaram 2:02),Manihot esculenta,AJ575819,2743,ICMV/Ker,"India/Kerala state, Kozhikode district, Adivaram"
+South African cassava mosaic virus,,SACMV(ZA:01),Manihot esculenta,AF155806,2800,SACMV,South Africa
+Sri Lankan cassava mosaic virus,Adivaram,SLCMV/IN(IN:KL:Adivaram:03),Manihot esculenta,AJ579307,2758,SLCMV/IN,"India/Kerala, Calicut, Adivaram"
+Sri Lankan cassava mosaic virus,SLCMV-Col,SLCMV/LK(LK:CMB:SLCMV-Col:98),Nicotiana benthamiana,AJ314737,2755,SLCMV/LK,Sri Lanka/Columbo
